@@ -3,19 +3,11 @@ headless: true
 bookMenuLevels: 1
 ---
 
- - [**Example Site**]({{< relref "/docs/example" >}})
- - [Table of Contents]({{< relref "/docs/example/table-of-contents" >}})
-   - [With ToC]({{< relref "/docs/example/table-of-contents/with-toc" >}})
-   - [Without ToC]({{< relref "/docs/example/table-of-contents/without-toc" >}})
- - [2nd]({{< relref "/docs/example/2nd" >}})
-   - [3rd]({{< relref "/docs/example/2nd/3rd" >}})
-     - [4th]({{< relref "/docs/example/2nd/3rd/4th" >}})  
- - **Shortcodes**
- - [Buttons]({{< relref "/docs/shortcodes/buttons" >}})
- - [Columns]({{< relref "/docs/shortcodes/columns" >}})
- - [Expand]({{< relref "/docs/shortcodes/expand" >}})
- - [Hints]({{< relref "/docs/shortcodes/hints" >}})
- - [Katex]({{< relref "/docs/shortcodes/katex" >}})
- - [Mermaid]({{< relref "/docs/shortcodes/mermaid" >}})
- - [Tabs]({{< relref "/docs/shortcodes/tabs" >}})  
- - [**Blog**]({{< relref "/posts" >}})
+ - [Experimental setup]({{< relref "/docs/exp-setup/" >}})
+   - [Algorithms]({{< relref "/docs/exp-setup/algorithms" >}})
+   - [Datasets]({{< relref "/docs/exp-setup/datasets" >}})
+   - [Metrics]({{< relref "/docs/exp-setup/metrics" >}})
+ - [Results]({{< relref "/docs/results/" >}})
+  - [Raw output]({{< relref "/docs/raw-output" >}})
+  - [Videos and trails]({{< relref "/docs/videos-and-trails" >}})
+ - [Replication]({{< relref "/docs/replication" >}})
